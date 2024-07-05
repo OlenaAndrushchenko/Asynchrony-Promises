@@ -1,10 +1,3 @@
-# Asynchrony & Promises
-
-## Practice
-
-1. Use this JSON to print the list of 'All' titles in the browser console.
-
-```json
 {
     "results": [
         {
@@ -29,19 +22,3 @@
         }
     ]
 }
-```
-
-2. Use the same JSON to print a table with all the 'All' elements and their properties in the browser document.
-
-## Use
-
-You can use Bootstrap
-
-## Extras
-
-Show finished and unfinished 'All' graphically.
-
-
-## Resources
-https://www.chartjs.org/
-https://youtu.be/uSEd1_FhMWE
