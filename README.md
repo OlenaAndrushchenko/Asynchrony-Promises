@@ -1,4 +1,5 @@
 # Asynchrony & Promises
+This repository is part of coursework for the Full Stack Web Development course from [Factoria F5](https://factoriaf5.org).
 
 ## Practice
 
@@ -44,4 +45,5 @@ Show finished and unfinished 'All' graphically.
 
 ## Resources
 https://www.chartjs.org/
+
 https://youtu.be/uSEd1_FhMWE
